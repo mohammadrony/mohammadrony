@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./profile-banner.png)
 
 # Welcome to my profile 👋
 
@@ -9,14 +9,11 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-
-
 ## About Me
 <table><tr><td valign="top">
 
-- 🔭 I’m currently working on personal project.
-
-- 🌱 I’m currently learning Terraform, AWS Cloud, and Helm technologies.
+- 🔭 I'm working on my personal skill development.  
+- 🌱 I'm learning Terraform and AWS Cloud technologies.
 
 - 💻 In my free time, I enjoy working on open-source coding projects and contributing to software communities.
 
@@ -89,5 +86,5 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mohammadrony&show_icons=true&count_private=true&hide_border=true) | ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadrony&include_all_commits=false&count_private=false&layout=compact&hide_border=true) |
 ------------|-------------|
 
-----
+---------------------------
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
