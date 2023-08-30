@@ -30,7 +30,7 @@
 ### DevOps
 
 <div align="center">
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" height="50" /></a>
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/linux/185886" alt="Linux" height="50" /></a>
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/amazonaws/232F3E" alt="AWS" height="50" /></a>
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="Kubernetes" height="50" /></a>
 <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/terraform/7B42BC" alt="Terraform" height="50" /></a>
@@ -82,7 +82,7 @@
 
 ## Github Stats
 
-![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mohammadrony&show_icons=true&count_private=true&hide_border=true&theme=cobalt) | ![Most used languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohammadrony&include_all_commits=false&count_private=false&layout=compact&hide_border=true&theme=cobalt) |
+![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mohammadrony&show_icons=true&count_private=true&hide_border=true&theme=cobalt&bg_color=30,193549,185886) | ![Most used languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohammadrony&include_all_commits=false&count_private=false&layout=compact&hide_border=true&theme=cobalt&bg_color=30,193549,185886) |
 ------------|-------------|
 
 ---------------------------
