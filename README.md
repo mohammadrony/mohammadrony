@@ -34,8 +34,8 @@
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/amazonaws/232F3E" alt="AWS" height="50" /></a>
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="Kubernetes" height="50" /></a>
 <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/terraform/7B42BC" alt="Terraform" height="50" /></a>
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/jenkins/D24939" alt="Jenkins" height="50" /></a>
-<a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/ansible/EE0000" alt="Ansible" height="50" /></a>
+<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/jenkins/000000/D24939" alt="Jenkins" height="50" /></a>
+<a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/ansible/1A1917/EE0000" alt="Ansible" height="50" /></a>
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/gitlab/FC6D26" alt="GitLab" height="50" /></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" height="50" /></a>
 <a href="https://www.apache.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/apache/D22128" alt="Apache" height="50" /></a>
