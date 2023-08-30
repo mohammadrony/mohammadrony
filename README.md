@@ -2,18 +2,18 @@
 
 # Welcome to my profile 👋
 
-<a href="https://github.com/mohammadrony" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/mohammadrony" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100062895648571" target="_blank">
+<img src=https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
 ## About Me
 <table><tr><td valign="top">
 
-- 🔭 I'm working on my personal skill development.  
-- 🌱 I'm learning Terraform and AWS Cloud technologies.
+- 🔭 I'm working on personal skill development.
+- 🌱 I'm currently learning Terraform and AWS Cloud technologies.
 
 - 💻 In my free time, I enjoy working on open-source coding projects and contributing to software communities.
 
@@ -30,16 +30,18 @@
 ### DevOps
 
 <div align="center">
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>
-<a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="50" /></a>
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" height="50" /></a>
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/amazonaws/232F3E" alt="AWS" height="50" /></a>
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="Kubernetes" height="50" /></a>
+<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/terraform/7B42BC" alt="Terraform" height="50" /></a>
+<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/jenkins/D24939" alt="Jenkins" height="50" /></a>
+<a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/ansible/EE0000" alt="Ansible" height="50" /></a>
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/gitlab/FC6D26" alt="GitLab" height="50" /></a>
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" height="50" /></a>
+<a href="https://www.apache.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/apache/D22128" alt="Apache" height="50" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/git/F05032" alt="Git" height="50" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash" height="50" /></a>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="50" /></a>
 </div>
 
 </td>
@@ -49,18 +51,16 @@
 
 <div align="center">
 
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
-
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue.js" height="50" /></a>
+<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" height="50" /></a>
+<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/dart/0175C2" alt="Dart" height="50" /></a>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="50" /></a>
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/c++/00599C" alt="C++" height="50" /></a>
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" height="50" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/git/F05032" alt="Git" height="50" /></a>
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" height="50" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/css3/E34F26" alt="CSS3" height="50" /></a>
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -68,23 +68,25 @@
 ### Backend
 
 <div align="center">
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" height="50" /></a>
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/express/000000" alt="Express.js" height="50" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" height="50" /></a>
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" height="50" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" height="50" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" height="50" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/git/F05032" alt="Git" height="50" /></a>
+<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/xampp/FB7A24" alt="XAMPP" height="50" /></a>
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" height="50" /></a>
 </div>
 </td></tr></table>
 
-## 📊 Github Stats
+## Github Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=mohammadrony&show_icons=true&count_private=true&hide_border=true) | ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadrony&include_all_commits=false&count_private=false&layout=compact&hide_border=true) |
+![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mohammadrony&show_icons=true&count_private=true&hide_border=true&theme=cobalt) | ![Most used languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohammadrony&include_all_commits=false&count_private=false&layout=compact&hide_border=true&theme=cobalt) |
 ------------|-------------|
 
 ---------------------------
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+Generated using [Github Profilinator](https://profilinator.rishav.dev/)
+
+Last update on August 31, 2023
