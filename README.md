@@ -1,19 +1,14 @@
-![Header](./profile-banner.png)
-
 # Welcome to my profile 👋
 
-<a href="https://linkedin.com/in/mohammadrony" target="_blank">
-<img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100062895648571" target="_blank">
-<img src=https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+![Header](./profile-banner.png)
+
+[![LinkedIn profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammadrony) [![Facebook profile](https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100062895648571)
 
 ## About Me
-<table><tr><td valign="top">
 
-- 🔭 I'm working on personal skill development.
-- 🌱 I'm currently learning Terraform and AWS Cloud technologies.
+- 🔭 I'm currently working on a microservice project.
+
+- 🌱 I'm currently learning Kubernetes with Service Mesh implementation.
 
 - 💻 In my free time, I enjoy working on open-source coding projects and contributing to software communities.
 
@@ -89,4 +84,4 @@
 
 Generated using [Github Profilinator](https://profilinator.rishav.dev/)
 
-Last update on August 31, 2023
+Last update on October 31, 2023
