@@ -8,7 +8,7 @@
 
 - 🔭 I'm currently working on a microservice project.
 
-- 🌱 I'm currently learning Kubernetes with Service Mesh implementation.
+- 🌱 I'm currently learning about Networking and Linux Administration.
 
 - 💻 In my free time, I enjoy working on open-source coding projects and contributing to software communities.
 
@@ -28,7 +28,6 @@
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/linux/185886" alt="Linux" height="50" /></a>
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/amazonaws/232F3E" alt="AWS" height="50" /></a>
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="Kubernetes" height="50" /></a>
-<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/terraform/7B42BC" alt="Terraform" height="50" /></a>
 <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/jenkins/000000/D24939" alt="Jenkins" height="50" /></a>
 <a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/ansible/1A1917/EE0000" alt="Ansible" height="50" /></a>
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/gitlab/FC6D26" alt="GitLab" height="50" /></a>
@@ -84,4 +83,4 @@
 
 Generated using [Github Profilinator](https://profilinator.rishav.dev/)
 
-Last update on October 31, 2023
+Last update on November 07, 2023
