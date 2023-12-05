@@ -6,9 +6,9 @@
 
 ## About Me
 
-- 🔭 I'm currently working on a microservice project.
+- 🔭 I'm currently working on a dashboard project.
 
-- 🌱 I'm currently learning about Networking and Linux Administration.
+- 🌱 I'm currently learning about Linux Administration and Scripting.
 
 - 💻 In my free time, I enjoy working on open-source coding projects and contributing to software communities.
 
@@ -83,4 +83,4 @@
 
 Generated using [Github Profilinator](https://profilinator.rishav.dev/)
 
-Last update on November 07, 2023
+Last update on December 05, 2023
