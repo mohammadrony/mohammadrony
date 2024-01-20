@@ -1,14 +1,10 @@
 # Welcome to my profile 👋
 
-![Header](./profile-banner.png)
-
 [![LinkedIn profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammadrony) [![Facebook profile](https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100062895648571)
 
-## About Me
+- 🔭 I'm currently working on a Microservice project.
 
-- 🔭 I'm currently working on a dashboard project.
-
-- 🌱 I'm currently learning about Linux Administration and Scripting.
+- 🌱 I'm currently learning about Deployments and Monitoring.
 
 - 💻 In my free time, I enjoy working on open-source coding projects and contributing to software communities.
 
@@ -83,4 +79,4 @@
 
 Generated using [Github Profilinator](https://profilinator.rishav.dev/)
 
-Last update on December 05, 2023
+Last update on January 21, 2024
