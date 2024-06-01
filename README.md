@@ -22,7 +22,7 @@
 
 <div align="center">
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/linux/185886" alt="Linux" height="50" /></a>
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/amazonaws/232F3E" alt="AWS" height="50" /></a>
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/amazonwebservices/232F3E" alt="AWS" height="50" /></a>
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="Kubernetes" height="50" /></a>
 <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/jenkins/000000/D24939" alt="Jenkins" height="50" /></a>
 <a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/ansible/1A1917/EE0000" alt="Ansible" height="50" /></a>
@@ -79,4 +79,4 @@
 
 Generated using [Github Profilinator](https://profilinator.rishav.dev/)
 
-Last update on January 21, 2024
+Last update on June 1, 2024
