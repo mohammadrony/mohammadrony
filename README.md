@@ -1,12 +1,12 @@
 # Hi 👋, I'm Rony
 
-[![LinkedIn profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammadrony) [![Facebook profile](https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100062895648571)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mohammadrony.com) [![LinkedIn profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammadrony) [![Facebook profile](https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100062895648571)
 
 ## GitHub Stats
 
 ![Profile view](https://komarev.com/ghpvc/?username=mohammadrony&abbreviated=true)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadrony&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-sigma-rouge.vercel.app/api?username=mohammadrony&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammadrony&theme=react)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
