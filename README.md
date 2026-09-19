@@ -16,4 +16,4 @@
 
 ## Certifications
 
-[![CKA Badge](https://training.linuxfoundation.org/wp-content/uploads/2019/03/logo_cka_whitetext-300x293.png)](https://www.credly.com/badges/b075342a-283a-4067-a2d6-cf4c7b114a26)
+![CKA Badge](https://training.linuxfoundation.org/wp-content/uploads/2019/03/logo_cka_whitetext-300x293.png)
