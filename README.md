@@ -12,7 +12,7 @@
 
 DevOps and Platform Engineer with 3+ years of experience designing, automating, and securing cloud infrastructure across **AWS**, **Microsoft Azure**, and **Google Cloud Platform (GCP)**.
 
-- ☁️ **Cloud Platforms**: AWS (Primary @ Dviz), Microsoft Azure (Primary @ Slangit), Google Cloud Platform (GCP), DigitalOcean
+- ☁️ **Cloud Platforms**: AWS, Microsoft Azure, Google Cloud Platform (GCP), DigitalOcean
 - ☸️ **Orchestration**: Kubernetes (EKS), Red Hat OpenShift, Karpenter node autoscaling, KEDA event-driven scaling, Docker
 - 🛠️ **Infrastructure as Code**: Terraform, Azure Bicep, Ansible, Bash, Python
 - 🔄 **GitOps & CI/CD**: ArgoCD, Helm, GitHub Actions, Jenkins, Kustomize
@@ -35,6 +35,18 @@ DevOps and Platform Engineer with 3+ years of experience designing, automating, 
 
 ---
 
+### 🧊 3D Contribution Calendar
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg">
+    <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Calendar" width="100%">
+  </picture>
+</div>
+
+---
+
 ### 📊 Engineering Metrics & Activity
 
 <p align="center">
@@ -49,4 +61,3 @@ DevOps and Platform Engineer with 3+ years of experience designing, automating, 
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadrony&theme=react" alt="Activity graph" />
   </p>
 </details>
-
