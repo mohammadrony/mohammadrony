@@ -10,15 +10,18 @@
 
 ### 🚀 About Me
 
-DevOps and Platform Engineer with 3+ years of experience designing, automating, and securing cloud infrastructure across **AWS**, **Microsoft Azure**, and **Google Cloud Platform (GCP)**.
+**DevSecOps & Platform Engineer** with 3+ years of experience architecting, automating, and securing multi-cloud platforms across **AWS**, **Microsoft Azure**, and **Google Cloud Platform (GCP)**.
 
-- ☁️ **Cloud Platforms**: AWS, Microsoft Azure, Google Cloud Platform (GCP), DigitalOcean
-- ☸️ **Orchestration**: Kubernetes (EKS), Red Hat OpenShift, Karpenter node autoscaling, KEDA event-driven scaling, Docker
-- 🛠️ **Infrastructure as Code**: Terraform, Azure Bicep, Ansible, Bash, Python
-- 🔄 **GitOps & CI/CD**: ArgoCD, Helm, GitHub Actions, Jenkins, Kustomize
-- 🔐 **Zero-Trust Security**: HashiCorp Vault, External Secrets Operator, Kyverno, Shift-Left SAST/SCA
-- 📊 **Observability**: OpenTelemetry, Prometheus, Grafana, Fluent Bit, Amazon CloudWatch
-- 🧠 **AI & GPU Workloads**: NVIDIA GPU Operator, Ollama LLM inference serving, MinIO object storage
+I own the platform layer across enterprise AI platforms, healthcare document extraction pipelines, and high-throughput financial gateways—building the infrastructure, CI/CD, observability, and compliance guardrails that ship workloads reliably and keep them auditable.
+
+- ☁️ **Multi-Cloud & DR**: AWS EKS with cross-region active/standby Disaster Recovery (us-east-1 & us-east-2), Azure AKS (VM-to-AKS migration), and Azure Container Apps.
+- ☸️ **Orchestration & Autoscaling**: Kubernetes (EKS, AKS), Red Hat OpenShift, Karpenter just-in-time node provisioning, and KEDA event-driven autoscaling.
+- 🛠️ **Infrastructure as Code**: Modular Terraform (VPC, EKS, RDS, APIM, Key Vault, NAT Gateways) and Azure Bicep (AKS, Postgres, Key Vault, ACR, VNets).
+- 🔄 **GitOps & Delivery**: ArgoCD App-of-Apps pattern, Kargo environment promotion, Argo Workflows, and in-cluster self-hosted GitHub Actions runners over OIDC.
+- 🔐 **DevSecOps & Zero-Trust**: Pipeline SAST/DAST, SBOM generation, Cosign container signing, DefectDojo vulnerability triage, Kyverno admission control, HashiCorp Vault & Azure Key Vault with External Secrets Operator (ESO), default-deny NetworkPolicies, and WireGuard VPN access.
+- 📊 **Observability & Reliability**: Full Grafana LGTM stack (Loki, Grafana, Tempo, Mimir/Prometheus) with continuous profiling, Alertmanager to Teams, Fluent Bit to CloudWatch, and Log Analytics (DCE/DCR).
+- 🧠 **AI & GPU Infrastructure**: NVIDIA GPU Operator with GPU time-slicing for OCR & LLM workloads, Ollama inference serving, LiteLLM proxy, and MinIO object storage.
+- 🛡️ **Compliance & Governance**: Automated evidence collection and control remediation for SOC 2 Type II (TSC Security, Availability, Confidentiality) and ISO 27001 via Drata, alongside HIPAA-aligned healthcare architectures and k6 load testing.
 
 ---
 
