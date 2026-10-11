@@ -10,22 +10,15 @@
 
 ### 🚀 About Me
 
-Hey there! 👋 I'm a **DevOps & Platform Engineer** dedicated to building resilient, self-healing platforms and making production deployments completely drama-free.
+DevOps and Platform Engineer with 3+ years of experience designing, automating, and securing cloud infrastructure across **AWS**, **Microsoft Azure**, and **Google Cloud Platform (GCP)**.
 
-- ☁️ **Multi-Cloud Navigator**: Designing and provisioning automated infrastructure across **AWS**, **Microsoft Azure**, and **GCP**.
-- ☸️ **Kubernetes Whisperer**: Running production workloads on **EKS** & **Red Hat OpenShift**, with **Karpenter** & **KEDA** for dynamic, event-driven scaling.
-- 🛠️ **IaC & GitOps Enthusiast**: Codifying entire cloud environments using **Terraform** & **Azure Bicep**, kept continuously synchronized via **ArgoCD**.
-- 🧠 **AI & GPU Workloads**: Orchestrating GPU-accelerated clusters, serving open-source models with **Ollama**, and managing object stores with **MinIO**.
-- 🔐 **Zero-Trust Advocate**: Enforcing shift-left security, policy as code via **Kyverno**, and strict secret management with **HashiCorp Vault**.
-
----
-
-### ⚡ Quick Bytes
-
-- 🔭 **Currently Crafting**: Production-grade platform engineering modules and developer-friendly automation tooling.
-- 🧠 **Latest Obsession**: Running open-source LLMs & distributed AI inference workloads on Kubernetes.
-- 💬 **Ask Me About**: Kubernetes internals, Karpenter autoscaling, Bicep vs Terraform, GitOps with ArgoCD, or how to survive a Friday deployment.
-- 🎯 **Engineering Mantra**: *"If you have to do it manually more than twice, automate it. If it runs in production, declare it in Git."*
+- ☁️ **Cloud Platforms**: AWS, Microsoft Azure, Google Cloud Platform (GCP), DigitalOcean
+- ☸️ **Orchestration**: Kubernetes (EKS), Red Hat OpenShift, Karpenter node autoscaling, KEDA event-driven scaling, Docker
+- 🛠️ **Infrastructure as Code**: Terraform, Azure Bicep, Ansible, Bash, Python
+- 🔄 **GitOps & CI/CD**: ArgoCD, Helm, GitHub Actions, Jenkins, Kustomize
+- 🔐 **Zero-Trust Security**: HashiCorp Vault, External Secrets Operator, Kyverno, Shift-Left SAST/SCA
+- 📊 **Observability**: OpenTelemetry, Prometheus, Grafana, Fluent Bit, Amazon CloudWatch
+- 🧠 **AI & GPU Workloads**: NVIDIA GPU Operator, Ollama LLM inference serving, MinIO object storage
 
 ---
 
@@ -50,7 +43,7 @@ Hey there! 👋 I'm a **DevOps & Platform Engineer** dedicated to building resil
 ### 📜 Certifications & Education
 
 - 🎓 **B.Sc. in Computer Science and Engineering** — Khulna University (2018 – 2023)
-- 🏅 **Certified Kubernetes Administrator (CKA)** — The Linux Foundation ([Verify Credential](https://www.credly.com/badges/b075342a-283a-4067-a2d6-cf4c7b114a26))
+- 🏅 **Certified Kubernetes Administrator (CKA)** — The Linux Foundation
 
 ---
 
@@ -63,11 +56,3 @@ Hey there! 👋 I'm a **DevOps & Platform Engineer** dedicated to building resil
     <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Calendar" width="100%">
   </picture>
 </div>
-
----
-
-### 📊 Engineering Metrics & Activity
-
-<p align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
-</p>
