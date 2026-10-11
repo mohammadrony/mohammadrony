@@ -10,21 +10,40 @@
 
 ### 🚀 About Me
 
-DevOps and Platform Engineer with 3+ years of experience designing, automating, and securing cloud infrastructure across **AWS**, **Microsoft Azure**, and **Google Cloud Platform (GCP)**.
+Hey there! 👋 I'm a **DevOps & Platform Engineer** dedicated to building resilient, self-healing platforms and making production deployments completely drama-free.
 
-- ☁️ **Cloud Platforms**: AWS, Microsoft Azure, Google Cloud Platform (GCP), DigitalOcean
-- ☸️ **Orchestration**: Kubernetes (EKS), Red Hat OpenShift, Karpenter node autoscaling, KEDA event-driven scaling, Docker
-- 🛠️ **Infrastructure as Code**: Terraform, Azure Bicep, Ansible, Bash, Python
-- 🔄 **GitOps & CI/CD**: ArgoCD, Helm, GitHub Actions, Jenkins, Kustomize
-- 🔐 **Zero-Trust Security**: HashiCorp Vault, External Secrets Operator, Kyverno, Shift-Left SAST/SCA
-- 📊 **Observability**: OpenTelemetry, Prometheus, Grafana, Fluent Bit, Amazon CloudWatch
-- 🧠 **AI & GPU Workloads**: NVIDIA GPU Operator, Ollama LLM inference serving, MinIO object storage
+- ☁️ **Multi-Cloud Navigator**: Designing and provisioning automated infrastructure across **AWS**, **Microsoft Azure**, and **GCP**.
+- ☸️ **Kubernetes Whisperer**: Running production workloads on **EKS** & **Red Hat OpenShift**, with **Karpenter** & **KEDA** for dynamic, event-driven scaling.
+- 🛠️ **IaC & GitOps Enthusiast**: Codifying entire cloud environments using **Terraform** & **Azure Bicep**, kept continuously synchronized via **ArgoCD**.
+- 🧠 **AI & GPU Workloads**: Orchestrating GPU-accelerated clusters, serving open-source models with **Ollama**, and managing object stores with **MinIO**.
+- 🔐 **Zero-Trust Advocate**: Enforcing shift-left security, policy as code via **Kyverno**, and strict secret management with **HashiCorp Vault**.
 
 ---
 
-### 💻 Tech Stack
+### ⚡ Quick Bytes
 
-[![My Tech Stack](https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,ansible,jenkins,githubactions,linux,bash,python,git,prometheus,grafana,postgres,redis)](https://skillicons.dev)
+- 🔭 **Currently Crafting**: Production-grade platform engineering modules and developer-friendly automation tooling.
+- 🧠 **Latest Obsession**: Running open-source LLMs & distributed AI inference workloads on Kubernetes.
+- 💬 **Ask Me About**: Kubernetes internals, Karpenter autoscaling, Bicep vs Terraform, GitOps with ArgoCD, or how to survive a Friday deployment.
+- 🎯 **Engineering Mantra**: *"If you have to do it manually more than twice, automate it. If it runs in production, declare it in Git."*
+
+---
+
+### 💻 Tech Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,openshift,docker,redhat,linux&perline=8" alt="Cloud & Containers" />
+  </a>
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=terraform,ansible,githubactions,jenkins,gitlab,git,bash,python,go&perline=9" alt="IaC & Automation" />
+  </a>
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=prometheus,grafana,nginx,postgres,redis,mongodb,kafka&perline=7" alt="Observability & Data" />
+  </a>
+</p>
 
 ---
 
@@ -52,12 +71,3 @@ DevOps and Platform Engineer with 3+ years of experience designing, automating, 
 <p align="center">
   <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </p>
-
-<details>
-  <summary><b>📈 Additional Stats & Activity Graph</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-readme-stats-sigma-rouge.vercel.app/api?username=mohammadrony&show_icons=true&theme=radical" alt="GitHub stats" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadrony&theme=react" alt="Activity graph" />
-  </p>
-</details>
