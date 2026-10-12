@@ -41,7 +41,7 @@ I work on cloud infrastructure, container platforms, and CI/CD pipelines across 
 ### Education & Certification
 
 - **B.Sc. in Computer Science and Engineering**, Khulna University (2018 - 2023)
-- **Certified Kubernetes Administrator (CKA)**, The Linux Foundation
+- **Certified Kubernetes Administrator (CKA)**, The Linux Foundation (2024 - 2026)
 
 ---
 
