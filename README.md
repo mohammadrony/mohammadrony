@@ -45,12 +45,12 @@ I work on cloud infrastructure, container platforms, and CI/CD pipelines across 
 
 ---
 
-### 3D Contribution Calendar
+### Contribution Calendar
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
     <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg">
-    <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Calendar" width="100%">
+    <img src="profile-3d-contrib/profile-green-animate.svg" alt="Contribution Calendar" width="100%">
   </picture>
 </div>
