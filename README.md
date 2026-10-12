@@ -1,4 +1,4 @@
-# Hi, I'm Md. Asaduzzaman Rony 👋
+# Hi, I'm Rony 👋
 
 **DevOps & Platform Engineer** | Multi-Cloud (AWS, Azure, GCP) | Kubernetes | GitOps | IaC
 
