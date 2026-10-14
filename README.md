@@ -10,7 +10,7 @@
 
 ### About Me
 
-I work on cloud infrastructure, container platforms, and CI/CD pipelines across AWS and Azure. My focus is keeping deployments reliable, automated, and secure.
+I work on cloud infrastructure, container platforms, and CI/CD pipelines across AWS, Azure, and GCP. My focus is keeping deployments reliable, automated, and secure.
 
 - **Cloud & Containers**: AWS (EKS), Azure (AKS), GCP, and Docker
 - **Infrastructure as Code**: Terraform, Azure Bicep, Ansible, and Bash
@@ -28,11 +28,11 @@ I work on cloud infrastructure, container platforms, and CI/CD pipelines across 
   </a>
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=terraform,ansible,githubactions,jenkins,gitlab,git,bash,python,go&perline=9" alt="IaC and Automation" />
+    <img src="https://skillicons.dev/icons?i=terraform,ansible,githubactions,jenkins,gitlab,git,bash,python&perline=8" alt="IaC and Automation" />
   </a>
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=prometheus,grafana,nginx,postgres,redis,mongodb,kafka&perline=7" alt="Observability and Data" />
+    <img src="https://skillicons.dev/icons?i=prometheus,grafana,nginx,postgres,mysql,redis&perline=6" alt="Observability and Data" />
   </a>
 </p>
 
@@ -48,9 +48,5 @@ I work on cloud infrastructure, container platforms, and CI/CD pipelines across 
 ### Contribution Calendar
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
-    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg">
-    <img src="profile-3d-contrib/profile-green-animate.svg" alt="Contribution Calendar" width="100%">
-  </picture>
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="Contribution Calendar" width="100%">
 </div>
