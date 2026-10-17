@@ -2,9 +2,7 @@
 
 **DevOps & Platform Engineer** | Multi-Cloud (AWS, Azure, GCP) | Kubernetes | GitOps | IaC
 
-[![Website](https://img.shields.io/badge/Website-mohammadrony.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mohammadrony.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammadrony-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammadrony)
-[![GitHub](https://img.shields.io/badge/GitHub-mohammadrony-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammadrony)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mohammadrony.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammadrony) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mohammadrony29) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100062895648571)
 
 ---
 
