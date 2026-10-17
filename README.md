@@ -2,7 +2,7 @@
 
 **DevOps & Platform Engineer** | Multi-Cloud (AWS, Azure, GCP) | Kubernetes | GitOps | IaC
 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mohammadrony.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammadrony) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100062895648571) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mohammadrony29)
+[![Website](https://custom-icon-badges.demolab.com/badge/Website-000000?style=for-the-badge&logo=chrome&logoColor=white)](https://mohammadrony.com) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://linkedin.com/in/mohammadrony) [![Facebook](https://custom-icon-badges.demolab.com/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100062895648571) [![YouTube](https://custom-icon-badges.demolab.com/badge/YouTube-FF0000?style=for-the-badge&logo=youtube-logo&logoColor=white)](https://www.youtube.com/@mohammadrony29)
 
 ---
 
